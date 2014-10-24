@@ -1,0 +1,10 @@
+cocos2d/
+proj.ios_mac/
+proj.linux/
+proj.wp8-xaml/
+proj.win32/Debug.win32/
+proj.win32/Weseewe.sdf
+proj.win32/Weseewe.opensdf
+proj.android/
+proj.android/obj/
+proj.android/libs/
